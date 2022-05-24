@@ -4,4 +4,4 @@ source "drivers/power/supply/Kconfig"
 if MACH_MT8173
 source "drivers/power/mt81xx/Kconfig"
 endif
-source "drivers/power/supply/vivo/Kconfig"
+#source "drivers/power/supply/vivo/Kconfig"
